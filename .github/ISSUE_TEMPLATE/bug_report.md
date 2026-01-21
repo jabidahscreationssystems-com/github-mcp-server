@@ -1,9 +1,9 @@
 ---
 name: "\U0001F41B Bug report"
 about: Report a bug or unexpected behavior while using GitHub MCP Server
-title: ''
-labels: bug
-assignees: ''
+title: MCP default issues
+labels: bug, documentation, enhancement
+assignees: jarlungoodoo73
 
 ---
 

@@ -1,24 +1,20 @@
 ---
-name: "⭐ Submit a feature request"
-about: Surface a feature or problem that you think should be solved
+name: Feature request
+about: Suggest an idea for this project
 title: ''
-labels: enhancement
+labels: ''
 assignees: ''
 
 ---
 
-### Describe the feature or problem you’d like to solve
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-A clear and concise description of what the feature or problem is.
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
 
-### Proposed solution
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
 
-How will it benefit GitHub MCP Server and its users?
-
-### Example prompts or workflows (for tools/toolsets only)
-
-If it's a new tool or improvement, share 3–5 example prompts or workflows it would enable. Just enough detail to show the value. Clear, valuable use cases are more likely to get approved.
-
-### Additional context
-
-Add any other context like screenshots or mockups are helpful, if applicable.
+**Additional context**
+Add any other context or screenshots about the feature request here.
